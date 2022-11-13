@@ -1,0 +1,2 @@
+# scalable-nextjs
+Practice project
